@@ -1,4 +1,4 @@
 # appnacollagedemo
 this is my first repo
 
-Author -shradha khapra
+Author -shradha khapra (apna collage)
